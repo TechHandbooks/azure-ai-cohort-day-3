@@ -3,6 +3,6 @@
 - [Day 3 Assignment: ](./Day3Assignment.md)
 - [Assignment Submission](https://forms.office.com/r/MwtiC6U7Ju?origin=lprLink)
 - [Winners]()
-- [Recording]()
+- [Recording](https://www.youtube.com/watch?v=xGYmDqbHe8g)
 
 [Back to Main Repo](https://github.com/TechHandbooks/azure-ai-cohort)
