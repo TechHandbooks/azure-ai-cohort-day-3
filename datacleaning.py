@@ -1,7 +1,8 @@
 import pandas as pd
 
-# Load the dataset
+# Load the dataset. you can download it from https://www.kaggle.com/competitions/titanic/data
 data = pd.read_csv('titanic.csv')
+
 
 # Explore the data
 print(data.head())
