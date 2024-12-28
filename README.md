@@ -2,7 +2,7 @@
 - Hands on Activity - [Data Preprocesing using Pandas in Python](data-preprocess-primer.md) & [Data Cleaning](./datacleaning.py)
 - [Day 3 Assignment: Data Cleaning and Exploring Azure ](./Day3Assignment.md)
 - [Assignment Submission](https://forms.office.com/r/MwtiC6U7Ju?origin=lprLink)
-- [Winners]()
+- [Winners](https://github.com/Techhandbooks/azure-ai-cohort/blob/main/Winners.md)
 - [Reference Links](#reference-links)
 - [Recording](https://www.youtube.com/watch?v=xGYmDqbHe8g)
   
